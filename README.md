@@ -1,6 +1,6 @@
 # Pingpong_Game
 
-This is web a ping pong game, created for two players using Javascript. 
+This is a web ping pong game, created for two players using Javascript. 
 
 ## How to play:
 
